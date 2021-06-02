@@ -1,0 +1,16 @@
+#main-box {
+    background-image: url("../images/background.jpg") !important;
+}
+
+.hero-paragraph .highlight {
+    background-color: #e8c442;
+    font-size: 1.5rem;
+    line-height: 2rem;
+}
+
+.section-paragraph .highlight {
+    background-color: #618cd2;
+    font-size: 1.5rem;
+    line-height: 2rem;
+}
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImN1c3RvbS5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7SUFDSSw4REFBQTtBQUNKOztBQUVBO0lBQ0kseUJBQXlCO0lBQ3pCLGlCQUFpQjtJQUNqQixpQkFBaUI7QUFDckI7O0FBRUE7SUFDSSx5QkFBeUI7SUFDekIsaUJBQWlCO0lBQ2pCLGlCQUFpQjtBQUNyQiIsImZpbGUiOiJjdXN0b20uY3NzIiwic291cmNlc0NvbnRlbnQiOlsiYm9keSB7XG4gICAgYmFja2dyb3VuZC1pbWFnZTogdXJsKFwiL2Rpc3QvaW1hZ2VzL2JhY2tncm91bmQuanBnXCIpO1xuICAgIGJhY2tncm91bmQtY29sb3I6ICNjY2NjY2M7XG59Il19 */

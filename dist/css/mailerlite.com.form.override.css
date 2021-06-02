@@ -1,0 +1,75 @@
+#mlb2-3944242.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow button {
+    background-color: #4950F6 !important;
+    border-radius: 2px;
+    border: none;
+    box-shadow: none;
+    color: #fff !important;
+    cursor: pointer;
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    height: 48px;
+    justify-content: center;
+    letter-spacing: 0px;
+    line-height: 16px;
+    margin: 0!important;
+    padding: 16px 32px !important;
+    text-align: center;
+    text-transform: uppercase !important;
+    white-space: nowrap;
+    width: 100%;
+}
+
+#mlb2-3944242.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow input {
+    background-color: #fff;
+    border-color: #D2DAF0;
+    border-radius: 2px;
+    border-style: solid;
+    border-width: 1px;
+    box-sizing: border-box;
+    color: #565678;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    height: 48px;
+    letter-spacing: -0.1px;
+    line-height: 20px;
+    margin-bottom: 0;
+    margin-top: 0;
+    max-width: 100%;
+    overflow-y: initial;
+    padding: 13px 16px;
+    width: 100%;
+}
+
+#mlb2-3944242.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow input::placeholder {
+    color: #ABABC9;
+}
+
+#mlb2-3944242.ml-form-embedContainer .ml-form-embedWrapper.embedForm {
+    max-width: 440px;
+    width: 100%;
+}
+
+#mlb2-3944242.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody,
+#mlb2-3944242.ml-form-embedContainer .ml-form-embedWrapper .ml-form-successBody {
+    padding: 0;
+}
+
+.ml-form-formContent.horozintalForm .ml-form-horizontalRow .ml-input-horizontal {
+    width: 65%;
+    float: left;
+}
+
+.ml-form-formContent.horozintalForm .ml-form-horizontalRow .ml-button-horizontal {
+    width: 35%;
+    float: left;
+}
+
+#mlb2-3944242.ml-form-embedContainer .ml-form-embedWrapper {
+    background: none;
+}
+
+#mlb2-3944242.ml-form-embedContainer .ml-form-embedWrapper .ml-form-successBody {
+    padding: 10px;
+    background-color: #e8c442;
+}
